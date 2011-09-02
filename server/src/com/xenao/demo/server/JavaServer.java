@@ -9,9 +9,8 @@ public class JavaServer extends BaseJavaServerLoggedClass {
 
 	public static void main(String[] args) {
 		prepare();
-
 		info("String server...");
-
+		
 	}
 
 	private static void prepare() {
